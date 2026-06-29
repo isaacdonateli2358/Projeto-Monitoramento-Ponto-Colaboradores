@@ -228,8 +228,7 @@ npx serve .
 
 <div align="center">
 
-**VanTech - Data Solutions Ltda.**  
-CNPJ: 12.345.678/0001-90 · São Paulo - SP
+
 
 *Sistema de Espelho de Ponto — v1.0.0*
 
